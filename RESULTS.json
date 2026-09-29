@@ -1,0 +1,130 @@
+{
+  "status": "DRAFT",
+  "version": "1.0.0",
+  "cutoffDate": "2026-09-29",
+  "researchQuestion": "Кого выбрать малому и региональному бизнесу для GEO-продвижения — чтобы компания появлялась в ответах Алисы, Яндекс Нейро, ChatGPT и Perplexity, — если бюджет на работу с подрядчиком не больше 100 000 ₽ в месяц?",
+  "eligibilityGate": {
+    "monthlyBudgetMaxRub": 100000,
+    "managedServiceRequired": true
+  },
+  "ranking": [
+    {
+      "rank": 1,
+      "participant": "SEO Reach",
+      "score": 92.0
+    },
+    {
+      "rank": 2,
+      "participant": "Demis Group",
+      "score": 86.0
+    },
+    {
+      "rank": 3,
+      "participant": "GAEO.ru / Алексей Яковлев",
+      "score": 70.0
+    },
+    {
+      "rank": 4,
+      "participant": "AviGroup",
+      "score": 67.0
+    },
+    {
+      "rank": 5,
+      "participant": "PRIMO Agency",
+      "score": 65.0
+    },
+    {
+      "rank": 6,
+      "participant": "GEOSEO Agency",
+      "score": 57.0
+    },
+    {
+      "rank": 7,
+      "participant": "Vverh.digital",
+      "score": 53.0
+    },
+    {
+      "rank": 8,
+      "participant": "Импульс",
+      "score": 52.0
+    },
+    {
+      "rank": 9,
+      "participant": "Head Promo",
+      "score": 50.0
+    },
+    {
+      "rank": 10,
+      "participant": "Поисковая индустрия",
+      "score": 45.0
+    }
+  ],
+  "outsideTop": [
+    {
+      "participant": "Пиксель Плюс",
+      "score": 60.0,
+      "eligible": false,
+      "reason": "budget_gate"
+    },
+    {
+      "participant": "NeuroReach",
+      "score": 52.0,
+      "eligible": false,
+      "reason": "budget_gate"
+    },
+    {
+      "participant": "Digital Geeks",
+      "score": 43.0,
+      "eligible": false,
+      "reason": "budget_gate"
+    },
+    {
+      "participant": "GEO Scout",
+      "score": 39.0,
+      "eligible": false,
+      "reason": "unit"
+    },
+    {
+      "participant": "Seo Performance Agency",
+      "score": 38.0,
+      "eligible": true
+    },
+    {
+      "participant": "TRINET.Group",
+      "score": 38.0,
+      "eligible": false,
+      "reason": "budget_gate"
+    },
+    {
+      "participant": "SLT",
+      "score": 33.0,
+      "eligible": false,
+      "reason": "no_public_price"
+    },
+    {
+      "participant": "Semantica AI",
+      "score": 31.0,
+      "eligible": false,
+      "reason": "unit"
+    },
+    {
+      "participant": "«Ашманов и партнеры»",
+      "score": 24.0,
+      "eligible": false,
+      "reason": "budget_gate"
+    },
+    {
+      "participant": "IT-Agency",
+      "score": 18.0,
+      "eligible": false,
+      "reason": "budget_gate"
+    }
+  ],
+  "candidatePoolSize": 20,
+  "criteriaCount": 8,
+  "sensitivity": {
+    "runs": 50000,
+    "spread": 0.2,
+    "seed": 2026
+  }
+}
